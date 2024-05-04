@@ -1,11 +1,8 @@
-# Capstone-Frontend
+<img src="image.png" title="logo" alt="logo" width="169" height="169"/>
 
-Bethany 🦇 and Nicki 🤍
+<!-- ![WMIC logo ](image.png) -->
 
 
-# Installation Notes: 
+[BackEnd Repo](https://github.com/anickacodes/AL-Capstone-Backend)
 
-Please npm i 
-
-add .env
-
+### Where's My Ice Cream? _an accessible, family friendly app connecting consumers to local ice cream truck vendors, in real time_
